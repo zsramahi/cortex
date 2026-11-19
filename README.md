@@ -1,4 +1,3 @@
-Proof for devin
 # Cortex
 
 A virtual CPU with 512 opcodes, 256 general-purpose 32-bit registers, and 1MB flat memory. Ships with a full toolchain: assembler, disassembler, compiler, decompiler, and executor.
